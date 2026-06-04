@@ -1,4 +1,14 @@
 # AI Application Compiler
+Live Demo: https://ai-application-compiler-6givmkwf36appqj4nrdeftp.streamlit.app/
+GitHub Repository: https://github.com/ffsabell/ai-application-compiler
+
+# Key Features
+* Natural Language to Application Specification
+* Validation Engine
+* Repair Engine
+* Runtime Simulation
+* Metrics Dashboard
+* Evaluation Framework
 
 ## Overview
 
