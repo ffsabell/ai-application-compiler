@@ -1,0 +1,62 @@
+[
+  {
+    "prompt": "Build CRM with login and contacts"
+  },
+  {
+    "prompt": "Build ecommerce store with payments"
+  },
+  {
+    "prompt": "Build hospital management system"
+  },
+  {
+    "prompt": "Build student portal"
+  },
+  {
+    "prompt": "Build food delivery platform"
+  },
+  {
+    "prompt": "Build inventory management system"
+  },
+  {
+    "prompt": "Build HR portal"
+  },
+  {
+    "prompt": "Build banking application"
+  },
+  {
+    "prompt": "Build ticket booking system"
+  },
+  {
+    "prompt": "Build learning management system"
+  },
+  {
+    "prompt": "Build something useful"
+  },
+  {
+    "prompt": "Create a website"
+  },
+  {
+    "prompt": "Build CRM without users"
+  },
+  {
+    "prompt": "Create a payment system with no customers"
+  },
+  {
+    "prompt": "Build an application but do not store any data"
+  },
+  {
+    "prompt": "Create role based access control without roles"
+  },
+  {
+    "prompt": "Build an admin dashboard but no authentication"
+  },
+  {
+    "prompt": "Create an ecommerce platform but disable product management"
+  },
+  {
+    "prompt": "Build a hospital management system with patients but no database"
+  },
+  {
+    "prompt": "Build a learning platform. Figure out the rest yourself."
+  }
+]
